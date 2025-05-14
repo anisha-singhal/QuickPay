@@ -6,7 +6,7 @@ import UpdateProfile from "./pages/UpdateProfile";
 import AddTransaction from "./pages/AddTransaction";
 import TransactionHistory from "./pages/TransactionHistory";
 import Logout from "./pages/Logout";
-import Charts from "./pages/charts";
+import Charts from "./components/Charts";
 import PrivateRoute from "./components/PrivateRoute";
 
 function App(){
